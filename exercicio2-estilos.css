@@ -1,0 +1,49 @@
+#topo {
+  background-color: #f5deb3;
+  color: #3a3a3a;
+  font-family: Georgia, serif;
+  text-align: center; /* centraliza o conteúdo */
+  padding: 20px 0; /* espaçamento interno */
+}
+
+.importante {
+  background-color: #dcedc8;
+  color: #33691e;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
+
+article,
+p {
+  font-family: Verdana, sans-serif;
+}
+
+section p {
+  color: #1e3d59;
+}
+
+main article p {
+  color: #6a1b9a;
+}
+
+footer {
+  background-color: #eceff1;
+  color: #424242;
+  text-align: center;
+  padding: 10px 0;
+  font-family: Arial, sans-serif;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.imgcontent {
+  width: 100%;
+  padding-bottom: 0%;
+  justify-content: center;
+  align-items: center;
+}
